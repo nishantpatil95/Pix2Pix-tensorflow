@@ -10,6 +10,7 @@ https://www.tensorflow.org/tutorials/generative/pix2pix
 # How to use it
 
 1. Download images which you want to train and store them in "./Database_Name/base".<br/>
+In this case I have trained this model using with 40 modern house images.
 Sample image : <br/>
 ![Alt Text](https://github.com/nishantpatil95/Pix2Pix-tensorflow/blob/master/Images/Original.jpg)<br>
 2. run "image_sidebyside.py" which will save images side by side in "./Database_Name/train" folder.<br>
